@@ -1,1 +1,1 @@
-# MATH-3237E
+# MATH-3237E (Linear Regression)
